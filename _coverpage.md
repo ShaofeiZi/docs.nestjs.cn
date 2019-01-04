@@ -10,6 +10,8 @@
 - Node.js 版的 spring
 - 构建微服务应用
 - Nest.js 技术交流QQ群：489719517
+- 本地址为镜像站
 
+[源地址](https://docs.nestjs.cn/)
 [GitHub](https://github.com/nestjs/nest)
 [5.0](/5.0/firststeps.md)
